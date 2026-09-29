@@ -15,6 +15,8 @@ library(xgboost)
 #Clean working environment
 rm(list = ls())
 
+#Comment from Anna
+
 #Create color ramp for plotting
 cols <- colorRampPalette(c(
   "#000080",
